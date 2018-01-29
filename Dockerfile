@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM arm32v6/alpine:3.7
 
 LABEL description "Adminer is a full-featured database management tool" \
       maintainer="Hardware <contact@meshup.net>"
